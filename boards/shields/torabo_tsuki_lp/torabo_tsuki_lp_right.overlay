@@ -3,11 +3,6 @@
 #include <dt-bindings/zmk/input_transform.h>
 
 &zip_temp_layer {
-    excluded-positions = <
-        33 // J
-        34 // K
-        35 // L
-    >;
     require-prior-idle-ms = <200>;
 };
 
