@@ -35,11 +35,11 @@
 
         layer_0 {
             bindings = <
-&none  &none      &none     &none     &none        &none                                                    &none        &none  &none      &none     &none                 &none
-&none  &kp Q      &kp W     &kp E     &kp R        &kp T                                                    &kp Y        &kp U  &kp I      &kp O     &kp P                 &none
-&none  &kp A      &kp S     &kp D     &kp F        &kp G               &none                 &none          &kp H        &kp J  &kp K      &kp L     &kp SEMI              &none
-&none  &kp Z      &kp X     &kp C     &kp V        &kp B               &trans                &mo 3          &kp N        &kp M  &kp COMMA  &kp DOT   &mt RIGHT_SHIFT FSLH  &none
-&none  &kp LCTRL  &kp LGUI  &kp LALT  &lt 2 UNDER  &mt LEFT_GUI SPACE  &mt LEFT_SHIFT MINUS  &kp BACKSPACE  &lt 3 ENTER  &none  &none      &kp RGUI  &kp TAB               &none
+&none  &none      &none     &none     &none                 &none                                           &none        &none  &none      &none     &none                 &none
+&none  &kp Q      &kp W     &kp E     &kp R                 &kp T                                           &kp Y        &kp U  &kp I      &kp O     &kp P                 &none
+&none  &kp A      &kp S     &kp D     &kp F                 &kp G               &none        &none          &kp H        &kp J  &kp K      &kp L     &kp SEMI              &none
+&none  &kp Z      &kp X     &kp C     &kp V                 &kp B               &trans       &mo 3          &kp N        &kp M  &kp COMMA  &kp DOT   &mt RIGHT_SHIFT FSLH  &none
+&none  &kp LCTRL  &kp LGUI  &kp LALT  &mt LEFT_SHIFT UNDER  &mt LEFT_GUI SPACE  &lt 2 MINUS  &kp BACKSPACE  &lt 3 ENTER  &none  &none      &kp RGUI  &kp TAB               &none
             >;
         };
 
