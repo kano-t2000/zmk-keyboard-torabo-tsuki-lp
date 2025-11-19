@@ -8,6 +8,7 @@
         34 // K
         35 // L
     >;
+    require-prior-idle-ms = <200>;
 };
 
 &trackball_listener {
